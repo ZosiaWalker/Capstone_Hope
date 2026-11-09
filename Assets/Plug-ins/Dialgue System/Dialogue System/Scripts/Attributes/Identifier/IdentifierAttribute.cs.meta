@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2b120b49c82197b48ba290dddabe0b3a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Scripts/Attributes/Identifier/IdentifierAttribute.cs
+  uploadId: 911480

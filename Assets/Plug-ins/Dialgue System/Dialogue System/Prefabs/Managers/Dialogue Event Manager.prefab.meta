@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7bc87c4958b0474aad90e7b16d03996
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Prefabs/Managers/Dialogue Event Manager.prefab
+  uploadId: 911480

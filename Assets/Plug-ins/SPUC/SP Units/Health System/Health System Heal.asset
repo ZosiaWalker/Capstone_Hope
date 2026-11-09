@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Health System Heal
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[{"key":"heal","label":null,"summary":null,"hideLabel":false}],"controlOutputDefinitions":[{"key":"out","label":null,"summary":null,"hideLabel":true}],"valueInputDefinitions":[{"hasDefaultValue":true,"defaultValue":null,"_type":"UnityEngine.GameObject","key":"target","label":null,"summary":null,"hideLabel":true},{"hasDefaultValue":true,"defaultValue":{"$content":1.0,"$type":"System.Single"},"_type":"System.Single","key":"hPHeal","label":"HP
+      Heal","summary":null,"hideLabel":false},{"hasDefaultValue":true,"defaultValue":{"$content":true,"$type":"System.Boolean"},"_type":"System.Boolean","key":"capAtMax","label":null,"summary":null,"hideLabel":false}],"valueOutputDefinitions":[],"title":"Health
+      System Heal","summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"argumentCount":2,"defaultValues":{"name":{"$content":"SPUC_HS_Heal","$type":"System.String"},"target":null},"position":{"x":-72.0,"y":-84.0},"guid":"2d2088ed-4db0-4554-8e82-8aa85c8cc8fc","$version":"A","$type":"Unity.VisualScripting.TriggerCustomEvent","$id":"14"},{"defaultValues":{},"position":{"x":-468.0,"y":-60.0},"guid":"eebdfa2a-4cad-4ebf-bc11-c951f2bf9078","$version":"A","$type":"Unity.VisualScripting.GraphInput","$id":"16"},{"defaultValues":{},"position":{"x":299.0,"y":-45.0},"guid":"8aa82d10-ebf7-44fb-ba68-14ec3922cd01","$version":"A","$type":"Unity.VisualScripting.GraphOutput","$id":"18"},{"sourceUnit":{"$ref":"14"},"sourceKey":"exit","destinationUnit":{"$ref":"18"},"destinationKey":"out","guid":"5c2dd9ab-59bb-477f-8ff3-f346326d65b7","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"heal","destinationUnit":{"$ref":"14"},"destinationKey":"enter","guid":"31b76d56-d205-4749-b8fb-ba5ad1b3e6d7","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"target","destinationUnit":{"$ref":"14"},"destinationKey":"target","guid":"32c12a91-592c-4263-a791-2ef3a0bf4700","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"hPHeal","destinationUnit":{"$ref":"14"},"destinationKey":"argument_0","guid":"55711c33-567a-4920-9f44-701ae9dc5a6a","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"capAtMax","destinationUnit":{"$ref":"14"},"destinationKey":"argument_1","guid":"22d6555d-16ff-491f-a60b-b6773910fdd2","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

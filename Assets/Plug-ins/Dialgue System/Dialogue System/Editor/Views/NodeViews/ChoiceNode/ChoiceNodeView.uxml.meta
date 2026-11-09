@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 469f7862e8e81eb47b734fe608f97b92
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Editor/Views/NodeViews/ChoiceNode/ChoiceNodeView.uxml
+  uploadId: 911480

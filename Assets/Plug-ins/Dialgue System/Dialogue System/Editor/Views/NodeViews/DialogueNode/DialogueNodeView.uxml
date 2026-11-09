@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/IndieDevs/Dialogue%20System/Editor/Views/NodeViews/DialogueNode/DialogueNodeViewStyle.uss?fileID=7433441132597879392&amp;guid=270350c77c0548b42a92df5b2d822fd4&amp;type=3#DialogueNodeViewStyle" />
+    <ui:VisualElement name="parent" style="flex-grow: 1;">
+        <ui:VisualElement name="title-container" class="title" style="flex-grow: 0;">
+            <ui:Label tabindex="-1" parse-escape-sequences="true" display-tooltip-when-elided="true" name="title-label" text="Label" class="title-label" />
+        </ui:VisualElement>
+        <ui:VisualElement name="body" class="body" style="flex-grow: 1;">
+            <ui:VisualElement name="port-container" class="port-container" style="flex-grow: 1;">
+                <ui:VisualElement name="input" style="flex-grow: 1;" />
+                <ui:VisualElement name="output" style="flex-grow: 1;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="speaker-container" style="flex-grow: 0;" />
+            <ui:TextField picking-mode="Ignore" label="Message" value="None" multiline="true" name="message" style="width: auto; white-space: normal;" />
+            <ui:VisualElement name="listener-title" style="flex-grow: 1;">
+                <ui:Label tabindex="-1" text="Listeners" parse-escape-sequences="true" display-tooltip-when-elided="true" style="padding-left: 4px;" />
+                <ui:Button text="Add listener" parse-escape-sequences="true" display-tooltip-when-elided="true" name="add-listener" />
+            </ui:VisualElement>
+            <ui:VisualElement name="listener-container" style="flex-grow: 1;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

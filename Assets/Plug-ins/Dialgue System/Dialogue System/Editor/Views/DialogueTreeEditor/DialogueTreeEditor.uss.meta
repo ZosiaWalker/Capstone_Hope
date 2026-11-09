@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a51e4da92ec1eb46a9c5b4da9c814ee
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Editor/Views/DialogueTreeEditor/DialogueTreeEditor.uss
+  uploadId: 911480

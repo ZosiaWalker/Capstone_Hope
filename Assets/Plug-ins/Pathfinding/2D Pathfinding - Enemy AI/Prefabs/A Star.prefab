@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7502171929409428833
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1870299308820022306}
+  - component: {fileID: 7309659851493841202}
+  - component: {fileID: 2408210845768953434}
+  - component: {fileID: 3050960169307917418}
+  m_Layer: 0
+  m_Name: A Star
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1870299308820022306
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7502171929409428833}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7309659851493841202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7502171929409428833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cdb299cb8cc71d42a1f8d895ee24ccf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2408210845768953434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7502171929409428833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0a84647e2d2a3498a6887a2751ea19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3050960169307917418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7502171929409428833}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca79366453f1a2b44bebc2fcbb274866, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gridCenter: {x: 0, y: 0, z: 0}
+  cellSize: 1
+  width: 20
+  height: 10
+  obstacleLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  detectionDiameter: 1
+  walkableColor: {r: 0, g: 1, b: 0, a: 1}
+  obstacleColor: {r: 1, g: 0, b: 0, a: 1}
+  showGizmos: 1

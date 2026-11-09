@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd0216d69152e9c4b8bda851a1bd0553
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329661
+  packageName: 2D Pathfinding - Enemy AI for Unity
+  packageVersion: 1.2.1
+  assetPath: Assets/IndieDevs/2D Pathfinding - Enemy AI/Third-Party Notices.txt
+  uploadId: 927930

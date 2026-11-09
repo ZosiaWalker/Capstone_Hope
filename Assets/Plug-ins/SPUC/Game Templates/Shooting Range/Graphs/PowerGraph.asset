@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: PowerGraph
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"defaultValues":{"duration":{"$content":1.0,"$type":"System.Single"},"unscaledTime":{"$content":false,"$type":"System.Boolean"}},"position":{"x":-188.0,"y":-229.0},"guid":"12454cca-1795-453c-bfe9-fa12761923ac","$version":"A","$type":"Unity.VisualScripting.Timer","$id":"9"},{"coroutine":false,"defaultValues":{"button":{"$content":"Left","$type":"Unity.VisualScripting.MouseButton"},"action":{"$content":"Down","$type":"Unity.VisualScripting.PressState"}},"position":{"x":-432.0,"y":-288.0},"guid":"8c7a6514-df1b-4acd-aac5-1807e85680fe","$version":"A","$type":"Unity.VisualScripting.OnMouseInput","$id":"11"},{"coroutine":false,"defaultValues":{"button":{"$content":"Left","$type":"Unity.VisualScripting.MouseButton"},"action":{"$content":"Up","$type":"Unity.VisualScripting.PressState"}},"position":{"x":-432.0,"y":-168.0},"guid":"aab994ea-6f44-4654-a40b-fe92ad33939a","$version":"A","$type":"Unity.VisualScripting.OnMouseInput","$id":"13"},{"kind":"Scene","defaultValues":{"name":{"$content":"power","$type":"System.String"}},"position":{"x":168.0,"y":-168.0},"guid":"03292be9-fd25-4724-b9f7-00f1a0de29f6","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"15"},{"sourceUnit":{"$ref":"11"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"start","guid":"98f82efe-5c36-4daf-bcb7-cc836ddf954b","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"pause","guid":"bdb0509b-8fa1-4ccd-8354-b8fe4737017b","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"tick","destinationUnit":{"$ref":"15"},"destinationKey":"assign","guid":"e12705e0-ff22-4f24-922e-d1eec270d687","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"elapsedRatio","destinationUnit":{"$ref":"15"},"destinationKey":"input","guid":"7a3304f9-ce7e-420d-b9dc-4f6260448c12","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

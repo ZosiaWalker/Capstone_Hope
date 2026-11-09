@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 107a9524d8399e743ba8c36081de10c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329661
+  packageName: 2D Pathfinding - Enemy AI for Unity
+  packageVersion: 1.2.1
+  assetPath: Assets/IndieDevs/2D Pathfinding - Enemy AI/Example/Sprites/Tiles/Tilemap_9.asset
+  uploadId: 927930

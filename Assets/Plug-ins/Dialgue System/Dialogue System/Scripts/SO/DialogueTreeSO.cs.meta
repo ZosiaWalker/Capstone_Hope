@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 251c12e3471aae3468873f85cc1d8d9c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Scripts/SO/DialogueTreeSO.cs
+  uploadId: 911480

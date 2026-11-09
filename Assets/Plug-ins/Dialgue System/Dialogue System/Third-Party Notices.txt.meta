@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad4718057183d38409caaa9e1e7dc6a6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Third-Party Notices.txt
+  uploadId: 911480

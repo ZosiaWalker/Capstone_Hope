@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: adc6b193169a636419007d70bd2aa416
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329661
+  packageName: 2D Pathfinding - Enemy AI for Unity
+  packageVersion: 1.2.1
+  assetPath: Assets/IndieDevs/2D Pathfinding - Enemy AI/Scripts/Utils/NumberOfRaysPreviewAttribute.cs
+  uploadId: 927930

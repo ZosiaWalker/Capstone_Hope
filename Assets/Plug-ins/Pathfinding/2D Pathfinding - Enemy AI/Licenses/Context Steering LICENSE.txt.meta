@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf648cb733c735a46ade187ade3fef2c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329661
+  packageName: 2D Pathfinding - Enemy AI for Unity
+  packageVersion: 1.2.1
+  assetPath: Assets/IndieDevs/2D Pathfinding - Enemy AI/Licenses/Context Steering
+    LICENSE.txt
+  uploadId: 927930

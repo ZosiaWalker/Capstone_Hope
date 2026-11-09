@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e507cfaec4d254644a20ec63f91c78ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Scripts/Nodes/IfNode/SO/IfPortSO.cs
+  uploadId: 911480

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0bd98fe394bc53468a4e824c7dcda8b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Prefabs/Managers/Dialogue Variable
+    Manager.prefab
+  uploadId: 911480

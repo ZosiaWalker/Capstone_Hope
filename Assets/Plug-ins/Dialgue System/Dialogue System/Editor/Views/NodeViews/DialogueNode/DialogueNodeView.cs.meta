@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cfdb86efd81cb164d95086e2e8e21fab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Editor/Views/NodeViews/DialogueNode/DialogueNodeView.cs
+  uploadId: 911480
