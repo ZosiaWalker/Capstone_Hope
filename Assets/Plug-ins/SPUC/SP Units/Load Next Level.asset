@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Load Next Level
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[{"key":"load","label":null,"summary":null,"hideLabel":false}],"controlOutputDefinitions":[{"key":"loading","label":null,"summary":null,"hideLabel":false}],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Load
+      Next Level","summary":null,"pan":{"x":-365.0,"y":15.0},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":-646.0,"y":-134.0},"guid":"3e30926b-1a56-470c-b909-4f239fcc3fc0","$version":"A","$type":"Unity.VisualScripting.GraphInput","$id":"11"},{"defaultValues":{},"position":{"x":77.0,"y":-106.0},"guid":"897c9914-fecf-4566-b779-253e2f7b5210","$version":"A","$type":"Unity.VisualScripting.GraphOutput","$id":"13"},{"chainable":false,"member":{"name":"LoadNextLevel","parameterTypes":[],"targetType":"SP.LevelController","targetTypeName":"SP.LevelController","$version":"A"},"defaultValues":{},"position":{"x":-224.0,"y":-135.0},"guid":"53a1e679-8cac-41a4-b3c3-c507f9e1229a","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"15"},{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{"delay":{"$content":0.1,"$type":"System.Single"},"unscaled":{"$content":false,"$type":"System.Boolean"}},"position":{"x":-489.0,"y":-147.0},"guid":"02310be5-fa56-4b77-aeee-82066d8247d7","$version":"A","$type":"Unity.VisualScripting.SuperUnit","$id":"18"},{"sourceUnit":{"$ref":"18"},"sourceKey":"out","destinationUnit":{"$ref":"15"},"destinationKey":"enter","guid":"eab11ed9-1a3e-4085-8aec-eacac7a8899f","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"load","destinationUnit":{"$ref":"18"},"destinationKey":"in","guid":"ccdbd3f6-d3db-43d0-8e9a-4155049827f4","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"exit","destinationUnit":{"$ref":"13"},"destinationKey":"loading","guid":"e7741251-119b-4554-b801-1d07f89394b6","$type":"Unity.VisualScripting.ControlConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: acb9fa7ce5472a348b696ab322067059, type: 2}

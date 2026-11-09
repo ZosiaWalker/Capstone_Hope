@@ -1,0 +1,4 @@
+To ensure correct sorting of the Sprites follow these steps:
+1. In the top left options, navigate to Edit/Project Settings/Graphics
+2. Set "Transparency Sort Mode" to "Custom Axis"
+3. Set "Transparency Sort Axis" to X=0; Y=1; Z=0

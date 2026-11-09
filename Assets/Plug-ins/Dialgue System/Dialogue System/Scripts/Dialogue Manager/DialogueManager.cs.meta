@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b51d9a125bd41d74cb8d5d5de853fdfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Scripts/Dialogue Manager/DialogueManager.cs
+  uploadId: 911480

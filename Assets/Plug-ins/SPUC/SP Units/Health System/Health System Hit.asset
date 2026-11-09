@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Health System Hit
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[{"key":"hit","label":null,"summary":null,"hideLabel":false}],"controlOutputDefinitions":[{"key":"out","label":null,"summary":null,"hideLabel":true}],"valueInputDefinitions":[{"hasDefaultValue":true,"defaultValue":null,"_type":"UnityEngine.GameObject","key":"target","label":null,"summary":null,"hideLabel":true},{"hasDefaultValue":true,"defaultValue":{"$content":1.0,"$type":"System.Single"},"_type":"System.Single","key":"hPDamage","label":"HP
+      Damage","summary":null,"hideLabel":false}],"valueOutputDefinitions":[],"title":"Health
+      System Hit","summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"argumentCount":1,"defaultValues":{"name":{"$content":"SPUC_HS_Hit","$type":"System.String"},"target":null},"position":{"x":-72.0,"y":-84.0},"guid":"2d2088ed-4db0-4554-8e82-8aa85c8cc8fc","$version":"A","$type":"Unity.VisualScripting.TriggerCustomEvent","$id":"13"},{"defaultValues":{},"position":{"x":-468.0,"y":-60.0},"guid":"eebdfa2a-4cad-4ebf-bc11-c951f2bf9078","$version":"A","$type":"Unity.VisualScripting.GraphInput","$id":"15"},{"defaultValues":{},"position":{"x":299.0,"y":-45.0},"guid":"8aa82d10-ebf7-44fb-ba68-14ec3922cd01","$version":"A","$type":"Unity.VisualScripting.GraphOutput","$id":"17"},{"defaultValues":{},"position":{"x":-236.0,"y":58.0},"guid":"d35bbf4a-ddba-4317-85ef-4e79da793397","$version":"A","$type":"Unity.VisualScripting.NullCoalesce","$id":"19"},{"defaultValues":{},"position":{"x":-473.0,"y":114.0},"guid":"e5728499-95d4-428e-beea-16cdf38228f9","$version":"A","$type":"Unity.VisualScripting.This","$id":"21"},{"sourceUnit":{"$ref":"15"},"sourceKey":"hit","destinationUnit":{"$ref":"13"},"destinationKey":"enter","guid":"b89169ee-ba23-4ee8-b369-ede8825fca8d","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"exit","destinationUnit":{"$ref":"17"},"destinationKey":"out","guid":"001d0659-4342-489d-9f74-f24fbeef3949","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"hPDamage","destinationUnit":{"$ref":"13"},"destinationKey":"argument_0","guid":"9667cd66-8632-45ba-97e1-e0ac5f347a69","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"target","destinationUnit":{"$ref":"19"},"destinationKey":"input","guid":"5e018368-3a41-4d5c-8cad-de9d90a90383","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"21"},"sourceKey":"self","destinationUnit":{"$ref":"19"},"destinationKey":"fallback","guid":"e21ec533-e930-45af-a1fb-2a92989fb8da","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"19"},"sourceKey":"result","destinationUnit":{"$ref":"13"},"destinationKey":"target","guid":"6e579eca-9a34-4d16-99ea-c9af5b72b7c3","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

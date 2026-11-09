@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 657dae3c73282e74f9d944071cd6bf18
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329661
+  packageName: 2D Pathfinding - Enemy AI for Unity
+  packageVersion: 1.2.1
+  assetPath: Assets/IndieDevs/2D Pathfinding - Enemy AI/Example/Animations/Character
+    Animations/Player-Attack-Down.anim
+  uploadId: 927930

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: be32d0c4ef94c484d8b6fe53fe09d53f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Editor/Views/NodeViews/Other/ListenerView.cs
+  uploadId: 911480

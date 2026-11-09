@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 863b388500d8ec644a93e48a85ecf722
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Example/Scenes/Sample Scene/Scripts/Dialogue
+    UI/SampleDialogueUIManagerExample.cs
+  uploadId: 911480

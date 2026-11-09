@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ad995848acf0ed4ca068790779dbca7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Example/Scenes/Sample Scene/Sample
+    Scene.unity
+  uploadId: 911480

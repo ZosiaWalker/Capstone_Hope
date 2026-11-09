@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5916172784642581177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5203a8d111a414fa4bd699c4c56ae1, type: 3}
+  m_Name: End Node
+  m_EditorClassIdentifier: 
+  guid: 54b628310979e9e4b8c1d2994ac4eee9
+  position: {x: 540.39996, y: -1.1999817}
+  tree: {fileID: 11400000}
+  customFieldSO: {fileID: 1178660664571212448}
+  nodeID: 63da1c48-842d-4139-9a9c-bd58d26041f1
+  nextDialogue: {fileID: 11400000}
+--- !u!114 &-1797026938726496694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6160f032e709754da478093a781d78f, type: 3}
+  m_Name: DialogueSystem.CustomFieldSO
+  m_EditorClassIdentifier: 
+  new_FieldValue: 0
+  stringFields:
+    items: []
+  intFields:
+    items: []
+  floatFields:
+    items: []
+  boolFields:
+    items: []
+  vector2Fields:
+    items: []
+  vector3Fields:
+    items: []
+  spriteFields:
+    items: []
+  gameObjectFields:
+    items: []
+  audioClipFields:
+    items: []
+  dialogueTreeFields:
+    items: []
+--- !u!114 &-1270080242442161560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e31b4410c3712e4a9aa21372a79ac52, type: 3}
+  m_Name: Dialogue Node
+  m_EditorClassIdentifier: 
+  guid: b04f0c9a14cf8f147920fb7475dec404
+  position: {x: 150.00003, y: -0.3999939}
+  tree: {fileID: 11400000}
+  customFieldSO: {fileID: 1273057336720603135}
+  nodeID: 84a1a62b-8807-437c-81d3-6e444933a1dc
+  speaker: {fileID: 423078061435853656}
+  messages:
+    items:
+    - Key: 0
+      Value: This is another dialogue. It keeps repeating.
+  listeners: []
+  child: {fileID: -5916172784642581177}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 251c12e3471aae3468873f85cc1d8d9c, type: 3}
+  m_Name: Sample Dialogue 2
+  m_EditorClassIdentifier: 
+  dialogueID: 0cd81c65924369f4ab0165742943ac5e
+  startNode: {fileID: 7466409054141725458}
+  nodes:
+  - {fileID: 7466409054141725458}
+  - {fileID: -1270080242442161560}
+  - {fileID: -5916172784642581177}
+--- !u!114 &423078061435853656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cccfefcaa74d6af4c9819570d95910bf, type: 3}
+  m_Name: DialogueSystem.CharacterInternal
+  m_EditorClassIdentifier: 
+  characterName: 
+  customFieldSO: {fileID: 1870911280501321560}
+  tree: {fileID: 11400000}
+  node: {fileID: -1270080242442161560}
+--- !u!114 &1178660664571212448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6160f032e709754da478093a781d78f, type: 3}
+  m_Name: DialogueSystem.CustomFieldSO
+  m_EditorClassIdentifier: 
+  new_FieldValue: 0
+  stringFields:
+    items: []
+  intFields:
+    items: []
+  floatFields:
+    items: []
+  boolFields:
+    items: []
+  vector2Fields:
+    items: []
+  vector3Fields:
+    items: []
+  spriteFields:
+    items: []
+  gameObjectFields:
+    items: []
+  audioClipFields:
+    items: []
+  dialogueTreeFields:
+    items: []
+--- !u!114 &1273057336720603135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6160f032e709754da478093a781d78f, type: 3}
+  m_Name: DialogueSystem.CustomFieldSO
+  m_EditorClassIdentifier: 
+  new_FieldValue: 0
+  stringFields:
+    items: []
+  intFields:
+    items: []
+  floatFields:
+    items: []
+  boolFields:
+    items: []
+  vector2Fields:
+    items: []
+  vector3Fields:
+    items: []
+  spriteFields:
+    items: []
+  gameObjectFields:
+    items: []
+  audioClipFields:
+    items: []
+  dialogueTreeFields:
+    items: []
+--- !u!114 &1870911280501321560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6160f032e709754da478093a781d78f, type: 3}
+  m_Name: DialogueSystem.CustomFieldSO
+  m_EditorClassIdentifier: 
+  new_FieldValue: 0
+  stringFields:
+    items: []
+  intFields:
+    items: []
+  floatFields:
+    items: []
+  boolFields:
+    items: []
+  vector2Fields:
+    items: []
+  vector3Fields:
+    items: []
+  spriteFields:
+    items: []
+  gameObjectFields:
+    items: []
+  audioClipFields:
+    items: []
+  dialogueTreeFields:
+    items: []
+--- !u!114 &7466409054141725458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 579d9ab60cbcc4547b41eeed62b59450, type: 3}
+  m_Name: Start Node
+  m_EditorClassIdentifier: 
+  guid: 17e6a148878425042b4229dc2d6bcfcf
+  position: {x: 23.216007, y: 27.59999}
+  tree: {fileID: 11400000}
+  customFieldSO: {fileID: -1797026938726496694}
+  nodeID: 6b96281e-bc96-4eb3-92fb-a2fbfdc31abf
+  child: {fileID: -1270080242442161560}

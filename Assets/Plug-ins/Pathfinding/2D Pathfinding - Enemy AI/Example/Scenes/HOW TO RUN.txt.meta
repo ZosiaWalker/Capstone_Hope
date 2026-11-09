@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba9b26e5340189d4a9ee63cb871a4c7d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329661
+  packageName: 2D Pathfinding - Enemy AI for Unity
+  packageVersion: 1.2.1
+  assetPath: Assets/IndieDevs/2D Pathfinding - Enemy AI/Example/Scenes/HOW TO RUN.txt
+  uploadId: 927930

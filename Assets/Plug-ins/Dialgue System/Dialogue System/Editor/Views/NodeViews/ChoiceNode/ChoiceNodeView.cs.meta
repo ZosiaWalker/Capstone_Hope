@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8c01b7b98d8a85c4491c8944d6ca3695
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Editor/Views/NodeViews/ChoiceNode/ChoiceNodeView.cs
+  uploadId: 911480

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0d41ae648b41904daf46136eb5be221
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Example/Scenes/Sample Scene/Prefabs/UI/Choice
+    Sample.prefab
+  uploadId: 911480

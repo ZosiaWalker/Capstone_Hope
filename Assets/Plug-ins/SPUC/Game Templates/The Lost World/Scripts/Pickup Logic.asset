@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Pickup Logic
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":110.0,"y":73.0},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{"target":null,"enableOnStart":{"$content":true,"$type":"System.Boolean"},"tagFilter":{"$content":"Player","$type":"System.String"}},"position":{"x":-468.0,"y":-108.0},"guid":"32f844d3-15a4-4893-bbe2-62b237055bc0","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"9"},{"nest":{"source":"Macro","macro":1,"embed":null},"defaultValues":{"gameObject":{"$content":1,"$type":"System.Int32"}},"position":{"x":-144.0,"y":-72.0},"guid":"6fe2bf41-4179-4eff-a57e-4da58e02b028","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"12"},{"nest":{"source":"Macro","macro":2,"embed":null},"defaultValues":{},"position":{"x":108.0,"y":-60.0},"guid":"4471db20-ba85-44b8-a178-667bfd777b3d","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"15"},{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"pickup","$type":"System.String"}},"position":{"x":-462.0,"y":141.0},"guid":"87f12681-6934-4a22-9deb-1291420b5378","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"18"},{"sourceUnit":{"$ref":"9"},"sourceKey":"enter","destinationUnit":{"$ref":"12"},"destinationKey":"addCoins","guid":"6822ea08-5881-4f84-b1a8-ec10ca45010d","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"out","destinationUnit":{"$ref":"15"},"destinationKey":"destroy","guid":"3e613fd7-3dda-457e-927d-057bc8bb3f00","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"18"},"sourceKey":"trigger","destinationUnit":{"$ref":"12"},"destinationKey":"addCoins","guid":"3dc7543b-6336-4114-9aaa-cbefe85ec4a5","$type":"Unity.VisualScripting.ControlConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 374a87fc2063b4633a9012deb95c5da7, type: 2}
+    - {fileID: 11400000, guid: a15c8d0e6540c334dbdb5da26462e0a6, type: 2}
+    - {fileID: 11400000, guid: 6d1fb809d4132e841a559daf6b428826, type: 2}

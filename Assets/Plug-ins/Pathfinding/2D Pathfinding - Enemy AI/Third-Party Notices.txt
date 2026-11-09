@@ -1,0 +1,21 @@
+THIRD-PARTY NOTICES
+====================
+
+This package includes third-party content licensed under the following terms:
+
+1. Zelda-Like Tilesets and Sprites
+   Author: ArMM1998
+   License: CC0 (Public Domain)
+   Source: https://opengameart.org/content/zelda-like-tilesets-and-sprites
+
+2. Pathfinding
+   Author: Sebastian Lague
+   License: MIT
+   Source: https://github.com/SebLague/Pathfinding
+
+3. Unity-2D-Context-steering-AI
+   Author: Sunny Valley Studio
+   License: MIT
+   Source: https://github.com/SunnyValleyStudio/Unity-2D-Context-steering-AI
+
+For more details, refer to the respective license agreements linked above.

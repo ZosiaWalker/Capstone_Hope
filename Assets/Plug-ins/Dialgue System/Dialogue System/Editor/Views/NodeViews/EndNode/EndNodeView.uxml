@@ -1,0 +1,15 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/IndieDevs/Dialogue%20System/Editor/Views/NodeViews/EndNode/EndNodeViewStyle.uss?fileID=7433441132597879392&amp;guid=8c837216056017b4ba1db8423c368317&amp;type=3#EndNodeViewStyle" />
+    <ui:VisualElement name="parent" style="flex-grow: 1;">
+        <ui:VisualElement name="title-container" class="title" style="flex-grow: 0;">
+            <ui:Label tabindex="-1" parse-escape-sequences="true" display-tooltip-when-elided="true" name="title-label" text="Label" class="title-label" />
+        </ui:VisualElement>
+        <ui:VisualElement name="body" class="body" style="flex-grow: 1;">
+            <ui:VisualElement name="port-container" class="port-container" style="flex-grow: 1;">
+                <ui:VisualElement name="input" style="flex-grow: 1;" />
+                <ui:VisualElement name="output" style="flex-grow: 1;" />
+            </ui:VisualElement>
+            <uie:ObjectField label="Next Dialogue" name="next-dialogue" type="DialogueSystem.DialogueTreeSO, Assembly-CSharp" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

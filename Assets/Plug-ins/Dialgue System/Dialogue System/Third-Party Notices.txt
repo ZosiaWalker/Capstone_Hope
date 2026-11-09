@@ -1,0 +1,10 @@
+THIRD-PARTY NOTICES
+====================
+
+This package includes third-party content licensed under the following terms:
+
+1. RuneScape UF Font
+   License: Public Domain, GPL, OFL: free for both personal and commercial use
+   Source: https://fontmeme.com/fonts/runescape-uf-font/
+
+For more details, refer to the respective license agreements linked above.

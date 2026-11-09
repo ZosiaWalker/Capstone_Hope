@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 144dc263fb4072c40a913a6d2bafd79d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329661
+  packageName: 2D Pathfinding - Enemy AI for Unity
+  packageVersion: 1.2.1
+  assetPath: Assets/IndieDevs/2D Pathfinding - Enemy AI/Example/Animations/Character
+    Animations/Player-Walk-Left.anim
+  uploadId: 927930

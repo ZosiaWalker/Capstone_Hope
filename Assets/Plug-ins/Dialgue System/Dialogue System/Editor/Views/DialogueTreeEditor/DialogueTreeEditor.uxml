@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/IndieDevs/Dialogue%20System/Editor/Views/DialogueTreeEditor/DialogueTreeEditor.uss?fileID=7433441132597879392&amp;guid=7a51e4da92ec1eb46a9c5b4da9c814ee&amp;type=3#DialogueTreeEditor" />
+    <ui:VisualElement name="parent" focusable="true" style="flex-grow: 1;">
+        <ui:VisualElement name="row" style="flex-grow: 0; flex-direction: row; justify-content: space-between; padding-top: 4px; padding-right: 4px; padding-bottom: 4px; padding-left: 4px;">
+            <ui:EnumField label="Language" name="language" />
+            <ui:Label tabindex="-1" text="Current Tree" parse-escape-sequences="true" display-tooltip-when-elided="true" name="tree-label" />
+            <ui:VisualElement name="buttons" style="flex-grow: 0; flex-direction: row; justify-content: flex-end;">
+                <ui:Button text="Import csv" parse-escape-sequences="true" display-tooltip-when-elided="true" name="import-btn" />
+                <ui:Button text="Export csv" parse-escape-sequences="true" display-tooltip-when-elided="true" name="export-btn" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <DialogueSystem.DialogueTreeView focusable="true" style="flex-grow: 1;" />
+    </ui:VisualElement>
+</ui:UXML>

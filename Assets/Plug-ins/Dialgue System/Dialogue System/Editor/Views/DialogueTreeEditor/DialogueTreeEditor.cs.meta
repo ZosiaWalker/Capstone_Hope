@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5adb43815ba0b68459fb9d2c0677f589
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - m_VisualTreeAsset: {fileID: 9197481963319205126, guid: b6b4c6a9c72cfec4785e4dd12b9cd583,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311097
+  packageName: Dialogue System for 2D/3D games
+  packageVersion: 2.0.3
+  assetPath: Assets/IndieDevs/Dialogue System/Editor/Views/DialogueTreeEditor/DialogueTreeEditor.cs
+  uploadId: 911480

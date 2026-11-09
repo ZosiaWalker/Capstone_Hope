@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57315170f108c9e4183451cc4633132a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329661
+  packageName: 2D Pathfinding - Enemy AI for Unity
+  packageVersion: 1.2.1
+  assetPath: Assets/IndieDevs/2D Pathfinding - Enemy AI/Documentation.pdf
+  uploadId: 927930

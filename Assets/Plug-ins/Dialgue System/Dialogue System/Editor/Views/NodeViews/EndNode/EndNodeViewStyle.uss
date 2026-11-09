@@ -1,0 +1,58 @@
+#parent {
+    overflow: hidden;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-width: 4px;
+    border-right-width: 4px;
+    border-bottom-width: 4px;
+    border-left-width: 4px;
+    display: flex;
+    border-color: transparent;
+    width: 350px;
+}
+
+#parent:hover {
+    border-color: rgb(238, 57, 57);
+}
+
+#parent:active {
+    border-color: rgb(238, 57, 57);
+}
+
+#parent.selected {
+    border-color: rgb(238, 57, 57);
+}
+
+#body {
+    background-color: rgb(56, 56, 56);
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+}
+
+#title-container {
+    background-color: rgb(238, 57, 57);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#title-label {
+    color: rgb(53, 0, 0);
+    align-items: auto;
+    align-self: center;
+    -unity-font-style: bold;
+    font-size: 14px;
+}
+
+#port-container {
+    background-color: rgb(56, 56, 56);
+}

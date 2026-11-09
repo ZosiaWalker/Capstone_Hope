@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7774b269a398f174e810f0f09fcd92b3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 329661
+  packageName: 2D Pathfinding - Enemy AI for Unity
+  packageVersion: 1.2.1
+  assetPath: Assets/IndieDevs/2D Pathfinding - Enemy AI/Prefabs/Steering Behaviours.prefab
+  uploadId: 927930
