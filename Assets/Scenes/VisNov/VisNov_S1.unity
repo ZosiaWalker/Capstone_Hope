@@ -248,6 +248,10 @@ PrefabInstance:
       propertyPath: m_text
       value: Test
       objectReference: {fileID: 0}
+    - target: {fileID: 3791851002533900622, guid: fc05e1fba7a79d8448a9e939fc7ca6d9, type: 3}
+      propertyPath: m_margin.z
+      value: -855.2811
+      objectReference: {fileID: 0}
     - target: {fileID: 4371753396656635075, guid: fc05e1fba7a79d8448a9e939fc7ca6d9, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.64
@@ -275,27 +279,49 @@ PrefabInstance:
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"characterName","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
         Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"dialogueParent","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"dialogue","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
-        Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1IntroDia","value":{"$content":[{"$content":"Heya!
-        [Placeholder] Haven\u2019t seen you in a while, where ya been?","$type":"System.String"},{"$content":"Hi,
+        Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1IntroDia","value":{"$content":[{"$content":"After
+        the handful of missed classes in recent weeks, you finally had the strength
+        to attend one again. Paying attention however, seemed beyond you still. ","$type":"System.String"},{"$content":"You
+        sat there dazed and distracted, swarmed by your own mind''s terrible malaise.
+        Now that class has concluded, you begin packing your bag and-","$type":"System.String"},{"$content":"Hold
+        on. Someone''s approaching.","$type":"System.String"},{"$content":"Oh! It''s
+        Green. You haven''t spoken to them in a month or so. ","$type":"System.String"},{"$content":"Sure,
+        they''ve texted you a bunch, but . But you didn\u2019t have it in you to
+        respond. You doubt they wanted to actually hang out anyways.","$type":"System.String"},{"$content":"You
+        quickly put as good a smile as you can to try and hide the tiredness before
+        green reaches you.","$type":"System.String"},{"$content":"Heya! [Placeholder]
+        Haven\u2019t seen you in a while, where ya been?","$type":"System.String"},{"$content":"Hi,
         um, good to see you again. Just been a bit occupied recently.","$type":"System.String"},{"$content":"How
         are you holding out? Everything alright?","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1IntroDia_Counter","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Act1CharName","value":{"$content":[{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Act1CharName","value":{"$content":[{"$content":"
+        ","$type":"System.String"},{"$content":" ","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":" ","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":" ","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1IntroChar_Counter","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"OPTIONS","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"60bits","value":{"$content":6,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"30bits","value":{"$content":7,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"0bits","value":{"$content":8,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_60_Dia","value":{"$content":[{"$content":"I\u2019ve
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_60_Dia","value":{"$content":[{"$content":"Nah,
+        things have been real rough for me as of late.","$type":"System.String"},{"$content":"Greens
+        your friend, you think it might be fine to speak plainly. And if they don\u2019t
+        like it, well, it''s their fault for asking, you guess.","$type":"System.String"},{"$content":"I\u2019ve
         struggled to get out of bed pretty often. Been hard to do anything at all,
         really.","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+        Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_CharName_60","value":{"$content":[{"$content":"Player","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_60_Dia_Counter","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Act1_30_Dia","value":{"$content":[{"$content":"Things
-        are a little uneasy, but nothing I can\u2019t handle. Biggest issues probably
-        been sleep.","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Act1_30_Dia","value":{"$content":[{"$content":"Its
+        been a bit of good, bit of bad. Nothing too bad","$type":"System.String"},{"$content":"You
+        haven\u2019t seen Green in quite a while, you\u2019d rather not have your
+        first conversation with them in weeks be upsetting. Best to keep the conversation
+        light. ","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_30_Dia_Counter","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Act1_0_Dia","value":{"$content":[{"$content":"No
-        complaints here. ","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Act1_0_Dia","value":{"$content":[{"$content":"I\u2019m
+        doing alright!","$type":"System.String"},{"$content":"You don\u2019t wanna
+        bother Green with your problems. Just go through the motions to end this
+        conversation as quickly as possible. ","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_0_Dia_Counter","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
