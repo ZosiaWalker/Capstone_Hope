@@ -289,7 +289,7 @@ PrefabInstance:
         they''ve texted you a bunch, but . But you didn\u2019t have it in you to
         respond. You doubt they wanted to actually hang out anyways.","$type":"System.String"},{"$content":"You
         quickly put as good a smile as you can to try and hide the tiredness before
-        green reaches you.","$type":"System.String"},{"$content":"Heya! [Placeholder]
+        green reaches you.","$type":"System.String"},{"$content":"Heya!           
         Haven\u2019t seen you in a while, where ya been?","$type":"System.String"},{"$content":"Hi,
         um, good to see you again. Just been a bit occupied recently.","$type":"System.String"},{"$content":"How
         are you holding out? Everything alright?","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
@@ -308,24 +308,131 @@ PrefabInstance:
         your friend, you think it might be fine to speak plainly. And if they don\u2019t
         like it, well, it''s their fault for asking, you guess.","$type":"System.String"},{"$content":"I\u2019ve
         struggled to get out of bed pretty often. Been hard to do anything at all,
-        really.","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+        really.","$type":"System.String"},{"$content":"Sorry to hear that. Any idea
+        if you''re sick or something?","$type":"System.String"},{"$content":"No,
+        I know I\u2019m not sick. I\u2019ve been\u2026 I don\u2019t know, exhausted?
+        Sluggish? I\u2019m not sure. ","$type":"System.String"},{"$content":"Makes
+        sense, you do look a bit under the weather.","$type":"System.String"},{"$content":"Can\u2019t
+        argue with that. You probably look as bad as you feel. You can\u2019t even
+        remember if you showered this morning.","$type":"System.String"},{"$content":"Yeah
+        sorry, my whole rhythms been off for weeks.","$type":"System.String"},{"$content":"Sounds
+        like you might be feeling depressed.","$type":"System.String"},{"$content":"
+        Depressed? No no, that seems a bit much. I don\u2019t think I\u2019m doing
+        that rough. ","$type":"System.String"},{"$content":"Though, now that you
+        say that, it\u2019d make sense. No wonder no one wants to hang out with you,
+        you\u2019d be ruining everything. More than usual anyway.","$type":"System.String"},{"$content":"Well,
+        have you been eating properly?","$type":"System.String"},{"$content":"Eh,
+        I haven\u2019t been that hungry recently.","$type":"System.String"},{"$content":"Done
+        any of your usual exercises?","$type":"System.String"},{"$content":"Haven\u2019t
+        been in the mood.  ","$type":"System.String"},{"$content":"             
+        , what was today\u2019s class about?","$type":"System.String"},{"$content":"Uh
+        oh.","$type":"System.String"},{"$content":"It was about\u2026 biology\u2026
+        stuff?","$type":"System.String"},{"$content":"\u2026","$type":"System.String"},{"$content":"C\u2019mon,
+        something. Anything you idiot.","$type":"System.String"},{"$content":"The
+        mito\u2026whatchacallit? Pretty sure\u2026","$type":"System.String"},{"$content":"              
+        ...","$type":"System.String"},{"$content":"Of course you\u2019d screw this
+        up. Not a single thing?","$type":"System.String"},{"$content":"It definitely
+        seems like you are suffering from some form of depression. ","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_CharName_60","value":{"$content":[{"$content":"Player","$type":"System.String"},{"$content":"
-        ","$type":"System.String"},{"$content":"Player","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Green","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_60_Dia_Counter","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Act1_30_Dia","value":{"$content":[{"$content":"Its
         been a bit of good, bit of bad. Nothing too bad","$type":"System.String"},{"$content":"You
         haven\u2019t seen Green in quite a while, you\u2019d rather not have your
         first conversation with them in weeks be upsetting. Best to keep the conversation
-        light. ","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+        light. ","$type":"System.String"},{"$content":"Things are a little uneasy,
+        but nothing I can\u2019t handle. Biggest issues probably been sleep.","$type":"System.String"},{"$content":"turns
+        their head a bit at that. Oh great you screwed up immediately didn\u2019t
+        you?","$type":"System.String"},{"$content":"How so?","$type":"System.String"},{"$content":"Been
+        oversleeping a lot more. It\u2019s been messing with my schedule a tad but
+        nothing crazy! ","$type":"System.String"},{"$content":"Are you sure? You
+        are slouching a bit more than usual, and your shirt is on backwards.","$type":"System.String"},{"$content":"Shit
+        is it? What are you saying, of course you\u2019d screw up putting on a shirt
+        of all things.","$type":"System.String"},{"$content":"Oh uhh, didn''t notice
+        that, hah. ","$type":"System.String"},{"$content":"Your half-hearted attempt
+        to lighten that little anecdote seems to flounder accordingly.","$type":"System.String"},{"$content":"Mind
+        if I ask how long this has been happening?","$type":"System.String"},{"$content":"Oh
+        no worries, it''s only been about\u2026","$type":"System.String"},{"$content":"Reduce
+        it.","$type":"System.String"},{"$content":" \u2026A week. Week-ish.","$type":"System.String"},{"$content":"You
+        said that weirdly, and Green definitely noticed. He doesn\u2019t say anything,
+        but you wouldn\u2019t be surprised if he\u2019s mocking you for that blunder.","$type":"System.String"},{"$content":"Well,
+        have you been eating properly?","$type":"System.String"},{"$content":"Eh,
+        I haven\u2019t been that hungry recently.","$type":"System.String"},{"$content":"Done
+        any of your usual exercises?","$type":"System.String"},{"$content":"Haven\u2019t
+        been in the mood. ","$type":"System.String"},{"$content":"              ,
+        what was today\u2019s class about?","$type":"System.String"},{"$content":"Uh
+        oh.","$type":"System.String"},{"$content":"It was about\u2026 biology\u2026
+        stuff?","$type":"System.String"},{"$content":"\u2026","$type":"System.String"},{"$content":"C\u2019mon,
+        something. Anything you idiot.","$type":"System.String"},{"$content":"The
+        mito\u2026whatchacallit? Pretty sure\u2026","$type":"System.String"},{"$content":"          
+        ...","$type":"System.String"},{"$content":"Of course you\u2019d screw this
+        up. Not a single thing?","$type":"System.String"},{"$content":"It definitely
+        seems like you are suffering from some form of depression. ","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_CharName_30","value":{"$content":[{"$content":"Player","$type":"System.String"},{"$content":"
-        ","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Green","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_30_Dia_Counter","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Act1_0_Dia","value":{"$content":[{"$content":"I\u2019m
         doing alright!","$type":"System.String"},{"$content":"You don\u2019t wanna
         bother Green with your problems. Just go through the motions to end this
-        conversation as quickly as possible. ","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
-        Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_CharName_0","value":{"$content":[{"$content":"
-        ","$type":"System.String"},{"$content":"Player","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+        conversation as quickly as possible. ","$type":"System.String"},{"$content":"No
+        complaints here.","$type":"System.String"},{"$content":"Green looks at you,
+        seemingly expecting to hear a little more. ","$type":"System.String"},{"$content":"
+        I uh, haven''t been doing anything interesting lately, soooo how have you
+        been? ","$type":"System.String"},{"$content":"I\u2019ve been doing okay myself.
+        Mostly been curious about you and haven''t been answering my texts.","$type":"System.String"},{"$content":"Oh,
+        sorry. Been meaning to respond for a while, but it kept slipping my mind.
+        ","$type":"System.String"},{"$content":"Not an entire lie. You\u2019ve seen
+        the handful of texts from all your friends, but just looking at them can
+        be a struggle. Everytime you go to respond you''re filled with an unbearable
+        cocktail of exhaustion, anxiety, and self hatred.","$type":"System.String"},{"$content":"So
+        you stopped bothering. Unlikely they actually care anyways and are just trying
+        to be polite","$type":"System.String"},{"$content":"I\u2019ll make sure to
+        do so when I get home.","$type":"System.String"},{"$content":"Oh\u2026 Alright.","$type":"System.String"},{"$content":"You
+        try to return to packing up and heading out, but green doesn''t move. In
+        fact, it seems he''s examining you up and down rather thoroughly, struggling
+        to hide his\u2026 concern?","$type":"System.String"},{"$content":"Why would
+        he be concerned about you of all people? You\u2019re nobody, just some waste
+        of- ","$type":"System.String"},{"$content":"The bags under your eyes are
+        quite pronounced, and your breathing is erratic. ","$type":"System.String"},{"$content":"What?","$type":"System.String"},{"$content":"What?
+        Oh, he\u2019s just mocking you. Makes sense.","$type":"System.String"},{"$content":"Have
+        you been staying up late, or struggling to sleep properly?","$type":"System.String"},{"$content":"Well,
+        I um\u2026 nothing out of the ordinary.","$type":"System.String"},{"$content":"But
+        you have never been like this before.","$type":"System.String"},{"$content":"It\u2019s
+        not too different, I promise I\u2019m fine.","$type":"System.String"},{"$content":"Well,
+        have you been eating properly?","$type":"System.String"},{"$content":"Eh,
+        I haven\u2019t been that hungry recently.","$type":"System.String"},{"$content":"Done
+        any of your usual exercises?","$type":"System.String"},{"$content":"Haven\u2019t
+        been in the mood. ","$type":"System.String"},{"$content":"             ,
+        what was today\u2019s class about?","$type":"System.String"},{"$content":"Uh
+        oh.","$type":"System.String"},{"$content":"It was about\u2026 biology\u2026
+        stuff?","$type":"System.String"},{"$content":" \u2026","$type":"System.String"},{"$content":"C\u2019mon,
+        something. Anything you idiot.","$type":"System.String"},{"$content":"The
+        mito\u2026whatchacallit? Pretty sure\u2026","$type":"System.String"},{"$content":"              
+        ... ","$type":"System.String"},{"$content":"Of course you\u2019d screw this
+        up. Not a single thing?","$type":"System.String"},{"$content":" It definitely
+        seems like you are suffering from some form of depression.","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+        Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_CharName_0","value":{"$content":[{"$content":"Player","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":" ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":" ","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Player","$type":"System.String"},{"$content":"Green","$type":"System.String"},{"$content":"
+        ","$type":"System.String"},{"$content":"Green","$type":"System.String"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
         Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Act1_0_Dia_Counter","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Act1IntroDia_Active","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"MouseActive","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
