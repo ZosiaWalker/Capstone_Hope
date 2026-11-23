@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: BitAdd
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-48.97095,"y":34.39997},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-281.0,"y":-84.0},"guid":"4cec65fb-4b09-4c79-a04b-df62a8837617","$version":"A","$type":"Unity.VisualScripting.Update","$id":"9"},{"specifyFallback":false,"kind":"Application","defaultValues":{"name":{"$content":"BitsGreen","$type":"System.String"}},"position":{"x":-240.0,"y":31.0},"guid":"88bcb4fe-749f-44b2-9ea9-63d92045c519","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"11"},{"kind":"Application","defaultValues":{"name":{"$content":"BitsGreen","$type":"System.String"}},"position":{"x":-57.0,"y":-93.0},"guid":"8ceefd13-17fb-4448-b3b5-ee8b8b1f4134","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"13"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"13"},"destinationKey":"assign","guid":"35c8bff5-825b-4bcd-8cc0-93654fa8f4a8","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"value","destinationUnit":{"$ref":"13"},"destinationKey":"input","guid":"36861449-e88b-4d31-bc76-680815870c26","$type":"Unity.VisualScripting.ValueConnection"},{"position":{"xMin":-318.0,"yMin":-132.4,"xMax":102.0,"yMax":140.6},"label":"Reliably
+      Gettong Bit count","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"a65ff17b-5477-4842-8fea-efb134c9f65b","$version":"A","$type":"Unity.VisualScripting.GraphGroup"}],"$version":"A"}}'
+    _objectReferences: []
